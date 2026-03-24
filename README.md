@@ -2,7 +2,7 @@
 
 ### 💻 Application Developer | IT & Web Support Specialist
 
-[cite_start]I am a recent **Bachelor of Computer and Information Sciences graduate** specializing in Application Development[cite: 25]. [cite_start]I have a strong foundation in full-stack development, mobile applications, and database systems[cite: 26]. [cite_start]I am passionate about solving real-world problems through clean, scalable code and continuously learning new technologies[cite: 27].
+I am a recent **Bachelor of Computer and Information Sciences graduate** specializing in Application Development. I have a strong foundation in full-stack development, mobile applications, and database systems. I am passionate about solving real-world problems through clean, scalable code and continuously learning new technologies.
 
 ---
 
@@ -21,11 +21,11 @@
 
 ### 🚀 What I'm Up To
 
-* [cite_start]🎓 **Education:** Successfully completed my **IIE Bachelor of Computer and Information Sciences in Application Development** at Varsity College.
-* [cite_start]💼 **Currently:** Providing on-call, part-time **IT & Web Support** for BEM Logistics [cite: 47] [cite_start]and freelance **App & Web Development** for AE Computers[cite: 61].
-* [cite_start]💡 **Looking For:** Full-time opportunities to build user-focused software using modern frameworks and tools[cite: 26].
+* 🎓 **Education:** Successfully completed my **IIE Bachelor of Computer and Information Sciences in Application Development** at Varsity College.
+* 💼 **Currently:** Providing on-call, part-time **IT & Web Support** for BEM Logistics and freelance **App & Web Development** for AE Computers.
+* 💡 **Looking For:** Full-time opportunities to build user-focused software using modern frameworks and tools.
 
 ### 📫 Let's Connect
 
-* [cite_start]💼 **LinkedIn:** [Kiran Naidoo](https://www.linkedin.com/in/kiran-naidoo-131b0a287) [cite: 120, 121]
-* [cite_start]📧 **Email:** kirannaidoo10005@gmail.com [cite: 4]
+* 💼 **LinkedIn:** [Kiran Naidoo](https://www.linkedin.com/in/kiran-naidoo-131b0a287) 
+* 📧 **Email:** kirannaidoo10005@gmail.com 
